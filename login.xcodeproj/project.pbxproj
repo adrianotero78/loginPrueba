@@ -99,12 +99,12 @@
 		3A9443902741CEA10030D14E /* login */ = {
 			isa = PBXGroup;
 			children = (
-				3A9443912741CEA10030D14E /* AppDelegate.swift */,
-				3A9443932741CEA10030D14E /* SceneDelegate.swift */,
 				3A9443952741CEA10030D14E /* ViewController.swift */,
 				3A9443972741CEA10030D14E /* Main.storyboard */,
-				3A94439A2741CEA70030D14E /* Assets.xcassets */,
 				3A94439C2741CEA70030D14E /* LaunchScreen.storyboard */,
+				3A94439A2741CEA70030D14E /* Assets.xcassets */,
+				3A9443932741CEA10030D14E /* SceneDelegate.swift */,
+				3A9443912741CEA10030D14E /* AppDelegate.swift */,
 				3A94439F2741CEA70030D14E /* Info.plist */,
 			);
 			path = login;
