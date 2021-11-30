@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet var nombreText: UITextField!
-    
+    // esto es una prueba
     @IBOutlet var botonOlvideClave: UIButton!
     
     @IBOutlet var botonOlvideUsuario: UIButton!
@@ -22,6 +22,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        let today = NSDate()
+        print(today)
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
