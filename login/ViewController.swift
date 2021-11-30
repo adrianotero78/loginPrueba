@@ -24,6 +24,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         let today = NSDate()
         print(today)
+        //COMENTARIO
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
