@@ -24,7 +24,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         let today = NSDate()
         print(today)
+        print("Print segunda rama")
         //COMENTARIO
+        //COMENTARIO 333333
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
